@@ -1,12 +1,14 @@
 {
-  "name": "tostrander/328/food3",
-  "authors": [
+  "name": "dhoward/SDEV328/food3",
+  "authors":
+  [
     {
-      "name": "Tina Ostrander",
-      "email": "tostrander@greenriver.edu"
+      "name": "Dailee Howard",
+      "email": "Dhoward18@mail.greenriver.edu"
     }
   ],
-  "require": {
+  "require":
+  {
     "bcosca/fatfree-core": "dev-master"
   }
 }
